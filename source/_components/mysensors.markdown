@@ -101,7 +101,7 @@ mysensors:
     type: string
     default: path/to/config/directory/mysensors.pickle
   version:
-    description: Specifies the MySensors protocol version to use. Supports 1.4, 1.5 and 2.0.
+    description: Specifies the MySensors protocol version to use. Supports 1.4, 1.5, 2.0 and 2.1.
     required: false
     type: string
     default: '1.4'
